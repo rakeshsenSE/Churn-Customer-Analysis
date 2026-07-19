@@ -28,4 +28,4 @@ This project analyzes telecom customer data to identify the core drivers behind 
 * `README.md`: Project documentation.
 
 ---
-*Developed as part of my continuous learning journey in AI-powered Full Stack Development and Data Science.*
+*Developed as part of my continuous learning journey in AI-Powered Data Analysis and Data Science.*
